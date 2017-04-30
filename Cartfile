@@ -1,0 +1,4 @@
+github "Awalz/SwiftyCam" ~> 2.2.1
+github "watson-developer-cloud/swift-sdk"
+github "algolia/algoliasearch-client-swift"
+github "SwiftyJSON/SwiftyJSON"

@@ -1,0 +1,3 @@
+framework module SwiftyCam {
+    header "SwiftyCam-Swift.h"
+}
